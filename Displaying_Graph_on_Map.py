@@ -17,9 +17,11 @@ nodes_lat_long_df['Airport Name'] = nodes_lat_long_df['Airport Name'].astype("st
 
 graph = nx.from_pandas_edgelist(flight_data_df, source = 'Source', target = 'Destination' ,create_using = nx.DiGraph())
 
-plt.figure(figsize = (10,9))
-m = Basemap(projection='merc',llcrnrlon=-180,llcrnrlat=10,urcrnrlon=-50,urcrnrlat=70, lat_ts=0, resolution='l',suppress_ticks=True)
+plt.figure(figsize = (10,6))
 
+m = Basemap(projection='cyl', resolution='l',
+            llcrnrlat=-90, urcrnrlat=90,
+            llcrnrlon=-180, urcrnrlon=180, )
 mx, my = m(nodes_lat_long_df['Lon'].values, nodes_lat_long_df['Lat'].values)
 pos = {}
 for count, elem in enumerate (nodes_lat_long_df['Node']):
