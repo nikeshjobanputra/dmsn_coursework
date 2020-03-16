@@ -1,0 +1,1260 @@
+Node,Airport Name,Lon,Lat
+ALB, Albany International,12.80298503,56.68113495
+BED, Laurence G Hanscom Field,-71.28399801,42.46936025
+BLM, Monmouth Executive,-74.1222892,40.1855136
+EWB, New Bedford Regional,-70.93748095,41.6906659
+HPN, Westchester County,-73.7907554,41.1763139
+IAD, Washington Dulles International,-77.45342298,38.95226625
+JFK, John F. Kennedy International,7.259453,46.49061
+MHT, Manchester-Boston Regional,-71.4388276,42.93066555
+MVY, Martha's Vineyard Airport,-70.61460078,41.3923861
+NAD, Harriman-and-West,-74.1445899,41.308427
+SIG, Isla Grande,-74.62171073,-52.83884555
+SJU, Luis Munoz Marin International,-65.99743037,18.44319945
+STX, Henry E. Rohlsen,-64.8059209,17.69997805
+YYZ, Lester B. Pearson International,-79.226553,43.803381
+LAX, Los Angeles International,-118.4213763,33.94216755
+SAN, San Diego International,-117.1922464,32.73336075
+TEB, Teterboro Airport,-74.06353615,40.84951
+TRM, Jacqueline Cochran Regional,-116.1610207,33.63094125
+AUS, Austin - Bergstrom International,-97.66500964,30.19348925
+HOU, William P Hobby,-95.27692609,29.64714905
+SJC, Norman Y. Mineta San Jose International,-121.92662,37.362014
+LIM, Jorge Chavez International,-77.11126697,-12.0217024
+ROP, Benjamin Taisacan Manglona International,145.241092099159,14.17434795
+GHC, Great Harbour Cay Airport,-77.8401031,25.7383003
+MPB, Watson Island International,-74.0037874,40.7148423
+SAQ, San Andros Airport,-78.05411619,25.0557121
+GAL, Edward G. Pitka Sr.,-156.94225,64.737507
+GKN, Gulkana Airport,-145.45182,62.154535
+MTX, Metro Field,-147.7551261,64.8079317
+ACK, Nantucket Memorial,-70.05803594,41.25579665
+LGA, LaGuardia,-2.5850848,42.5535011
+ANI, Aniak Airport,-159.5427778,61.5813889
+ANV, Anvik Airport,-160.1932999,62.6451092
+KLG, Kalskag Airport,-160.3409422,61.5367187
+RSH, Russian Mission Airport,-161.3215282,61.7804954
+ABL, Ambler River,-157.4189829,67.1563979
+AUK, Alakanuk Airport,-164.7169887,62.6858803
+DRG, Deering Airport,-162.7661743,66.0685517
+ELI, Elim Airport,-162.2702575,64.6187457
+IAN, Bob Baker Memorial,-160.4408276,66.9753137
+KOT, Kotlik Airport,-163.5332323,63.03016285
+KSM, St. Mary's Airport,-6.293294949,49.9138653
+ORV, Robert/Bob/Curtis Memorial,-161.027193,66.81738435
+OTZ, Ralph Wien Memorial,-162.6107466,66.8836843
+RDB, Red Dog Airport,-162.9027778,68.0311111
+SHG, Shungnak Airport,-157.1567626,66.8861127
+SHH, Shishmaref Airport,-166.0909413,66.24925765
+SHX, Shageluk Airport,-159.5672581,62.6874591
+SKK, Shaktoolik Airport,-161.223999,64.3711014
+SVA, Savoonga Airport,-170.4924844,63.6864805
+UNK, Unalakleet Airport,-160.801069,63.89088885
+WAA, Wales Airport,-70.021076,44.1723218
+WBB, Stebbins Airport,-162.285764,63.5155071
+WLK, Selawik Airport,-159.9946695,66.6003169
+WMO, White Mountain Airport,-163.4102675,64.6886809
+HYA, Barnstable Municipal-Boardman/Polando Field,-70.28481966,41.6707658
+TPA, Tampa International,-82.53492762,27.9791649
+SIT, Sitka Rocky Gutierrez,-135.3631936,57.04768055
+EDA, Edna Bay Airport,-133.6632433,55.949259
+KPB, Point Baker Airport,-116.0808486,35.2865526
+KTB, Thorne Bay Seaplane Base,-132.5366667,55.6877778
+WFB, Ketchikan Waterfront Seaplane Base,-131.668333,55.357778
+WWP, Whale Pass Airport,-152.8292301,57.92716235
+YQQ, Comox Airport,-124.9077184,49.7066374
+HNL, Daniel K Inouye International,-157.9184068,21.3217144
+MTH, The Florida Keys Marathon International,-81.0512195,24.7258703
+OPF, Miami Opa Locka Executive,-80.27515077,25.90619265
+TN8, John C Tune,-86.88638784,36.18334045
+BDL, Bradley International,-72.68501994,41.9405835
+RSW, Southwest Florida International,68.8332062,37.663947
+PHL, Philadelphia International,-75.23521279,39.875018
+BHM, Birmingham-Shuttlesworth International,-86.75154127,33.5635078
+BOS, Logan International,-71.01340799,42.3630236
+PHX, Phoenix Sky Harbor International,-112.0094218,33.43290795
+ACT, Waco Regional,-97.22638616,31.6133017
+EMK, Emmonak Airport,-164.4916058,62.7849215
+FAI, Fairbanks International,-147.8678423,64.81761
+FYU, Fort Yukon Airport,-145.240902,66.57354795
+KAL, Kaltag Airport,-158.7355272,64.3196804
+KYU, Koyukuk Airport,-157.7177479,64.87707825
+NUL, Nulato Airport,-158.0722359,64.7312131
+KTN, Ketchikan International,-131.7099582,55.3540143
+PSG, Petersburg James A Johnson,-132.939046,56.804517
+AGN, Angoon Seaplane Base,-134.585,57.5033333
+BET, Bethel Airport,-161.8402619,60.78043015
+CHU, Chuathbaluk Airport,-159.2160034,61.5791016
+KKI, Akiachak Airport,-161.4868143,60.9165695
+KUK, Kasigluk Airport,-162.5247222,60.8719444
+KWT, Kwethluk Airport,-161.4412536,60.7931676
+OOK, Toksook Bay,-165.1061256,60.5311752
+PKA, Napaskiak Airport,-161.7740167,60.7060627
+PTU, Platinum Airport,-161.8244235,59.0158634
+ENA, Kenai Municipal,-151.2472795,60.5706167
+HOM, Homer Airport,-151.4905296,59.6429186
+PGM, Port Graham Airport,-151.8286652,59.347423
+SOV, Seldovia Airport,-151.7047612,59.4424492
+A43, Trident Basin Seaplane Base,-152.3910065,57.7807999
+KLN, Larsen Bay Airport,-153.9766675,57.5353003
+KZB, Zachar Bay Airport,-153.7469959,57.5522796
+OLH, Old Harbor Airport,-153.2702295,57.21818475
+KXA, Kasaan Seaplane Base,-132.3975,55.5372222
+CEM, Central Airport,-144.777902,65.5736598
+IRC, Circle City,-112.5815176,33.8149433
+VEE, Venetie Airport,-146.3659973,67.0086975
+AKN, King Salmon Airport,-156.649387,58.6753166
+IGG, Igiugig Airport,-155.8999872,59.3251656
+KCG, Chignik Bay Airport,-158.4013889,56.2955556
+KCL, Chignik Lagoon Airport,-158.5344975,56.310982
+KCQ, Chignik Lake,-158.7639484,56.2530286
+KKH, Kongiganak Airport,-162.8813,59.9604
+KNW, New Stuyahok Airport,-157.3746663,59.4564459
+KWK, Kwigillingok Airport,-163.1679598,59.8760078
+NME, Nightmute Airport,-164.7029652,60.46984675
+NUP, Nunapitchuk Airport,-162.4435881,60.902874
+PIP, Pilot Point Airport,-157.5690236,57.5791972
+PTH, Port Heiden Airport,-158.6381662,56.9586396
+TNK, Tununak Airport,-165.2693027,60.5753352
+UGS, Ugashik Airport,-157.4009501,57.52193865
+TKJ, Tok Junction,-142.9877729,63.3359454
+SKW, Skwentna Airport,-151.1879783,61.9659232
+LAS, McCarran International,-115.1611199,36.0861034
+CKD, Crooked Creek Airport,-158.1319634,61.8670574
+GNU, Goodnews,-161.5875,59.1188889
+HCR, Holy Cross Airport,-159.7729269,62.1908445
+HPB, Hooper Bay Airport,-166.1478021,61.52474885
+HSL, Huslia Airport,-156.3509979,65.6978989
+KGX, Grayling Airport,-160.0673191,62.8890322
+KPN, Kipnuk Airport,-164.0323131,59.9353286
+MLL, Marshall Don Hunter Sr.,-162.0320792,61.8658239
+MOU, Mountain Village Airport,-163.6843667,62.0944378
+NUI, Nuiqsut Airport,-151.0052334,70.20999965
+PIZ, Point Lay LRRS,-162.834962,69.724382
+PQS, Pilot Station Airport,-162.900546,61.9348255
+SMK, St. Michael Airport,-162.1124452,63.4842682
+TLT, Tuluksak Airport,-160.9660798,61.0985829
+WTL, Tuntutuliak Airport,-162.6565166,60.3504323
+RSN, Ruston Regional,-92.5890211,32.5136789
+YIP, Willow Run,-75.240028,40.180337
+APA, Centennial,-104.8769227,39.579155
+BUR, Bob Hope,-2.5507889,51.4598516
+HHR, Jack Northrop Field/Hawthorne Municipal,-118.3351929,33.9229786
+LGB, Long Beach Airport,-118.1534124,33.81683295
+ONT, Ontario International,15.90652904,49.2047944
+TKF, Truckee Tahoe,-120.2305019,39.3519001
+VNY, Van Nuys Airport,-118.4901484,34.20713175
+YAK, Yakutat Airport,-139.6440808,59.50081355
+ELM, Elmira/Corning Regional,-76.89199038,42.1608441
+JAX, Jacksonville International,-81.69245135,30.4947303
+RIC, Richmond International,-123.1798642,49.193044
+SCE, University Park,-1.200295693,52.9387428
+PBI, Palm Beach International,-80.09248651,26.6859478
+MYK, May Creek Airport,-142.6875629,61.3362898
+BGR, Bangor International,-68.81941486,44.8072619
+BNA, Nashville International,-86.68308703,36.11958985
+CAK, Akron-Canton Regional,-81.53619425,41.07251425
+CVG, Cincinnati/Northern Kentucky International,-84.66516173,39.04990715
+EWR, Newark Liberty International,-74.17725485,40.68906405
+GRR, Gerald R. Ford International,-85.5348824,42.8766147
+LEX, Blue Grass,-90.7659148,41.5097808
+LIT, Bill and Hillary Clinton Nat Adams Field,-92.222777,34.729671
+MEM, Memphis International,-89.97689467,35.04625645
+PVD, Theodore Francis Green State,-71.4285882197495,41.72243995
+SAV, Savannah/Hilton Head International,-81.19770645,32.12423765
+SDF, Louisville Muhammad Ali International,-85.735407563811,38.1716962
+TUL, Tulsa International,-95.88673843,36.19700895
+DFW, Dallas/Fort Worth International,-97.04652205,32.89651945
+MSN, Dane County Regional-Truax Field,-89.33774534,43.1420815
+PDX, Portland International,-122.5927798,45.5871326
+PSC, Tri Cities,-119.0921006,46.2306739
+SAT, San Antonio International,-76.53263484,3.36830785
+SBA, Santa Barbara Municipal,-73.2903149,6.3799335
+ILI, Iliamna Airport,-154.9113769,59.7560681
+KNK, Kokhanok Airport,-154.7967494,59.4348297
+NNL, Nondalton Airport,-154.8394444,59.9788889
+PTA, Port Alsworth Airport,-154.3186111,60.2041667
+ABQ, Albuquerque International Sunport,-106.6109675,35.03766945
+AMA, Rick Husband Amarillo International,-101.7018472,35.21937225
+ATL, Hartsfield-Jackson Atlanta International,-84.42927119,33.63779875
+BOI, Boise Air Terminal,-116.247689,43.589116
+BUF, Buffalo Niagara International,-78.7307523,42.9402016
+BWI, Baltimore/Washington International Thurgood Marshall,-76.669676,39.182667
+CHS, Charleston AFB/International,5.561121,51.74178
+CLE, Cleveland-Hopkins International,-81.85120214,41.40661855
+CLT, Charlotte Douglas International,-80.94574352,35.21074145
+CMH, John Glenn Columbus International,-82.89304061,39.99705605
+CRP, Corpus Christi International,-97.50657535,27.7702374
+DCA, Ronald Reagan Washington National,-98.488142,29.616823
+DEN, Denver International,-104.6753277,39.8501877
+DSM, Des Moines International,-93.65927182,41.534256
+DTW, Detroit Metro Wayne County,-83.14095063,42.32362485
+ECP, Northwest Florida Beaches International,-85.797301,30.352373
+ELP, El Paso International,-56.1649811,-34.9077048
+FLL, Fort Lauderdale-Hollywood International,-80.15099673,26.072017
+GEG, Spokane International,-117.5423667,47.62004405
+GSP, Greenville-Spartanburg International,-82.21722846,34.8954456
+IND, Indianapolis International,-86.29508389,39.7162533
+ISP, Long Island MacArthur,124.996387,10.8347887
+BHD, Belfast City,-5.9302761,54.5964411
+LBB, Lubbock Preston Smith International,-101.8267058,33.6650235
+MAF, Midland International Air and Space Port,-102.2099027,31.9460261
+MDW, Chicago Midway International,-87.75082779,41.78544375
+MKE, General Mitchell International,-117.1826633,32.851404
+MSP, Minneapolis-St Paul International,-93.201195,44.879464
+MSY, Louis Armstrong New Orleans International,-90.259552,29.994929
+OAK, Metropolitan Oakland International,-122.2170744,37.7221623
+OMA, Eppley Airfield,-95.88987091,41.3011252
+ORF, Norfolk International,1.281815694,52.67646
+PIT, Pittsburgh International,-80.23702449,40.49178275
+PWM, Portland International Jetport,-70.31441956,43.6461777
+RDU, Raleigh-Durham International,-78.78723822,35.88036145
+RNO, Reno/Tahoe International,-119.7733319,39.4986462
+ROC, Greater Rochester International,-77.67269339,43.1161699
+SEA, Seattle/Tacoma International,-122.3080159,47.4475673
+SFO, San Francisco International,-122.389347,37.61567945
+SLC, Salt Lake City International,-111.9798985,40.7900661
+SMF, Sacramento International,121.0032349,14.4491862
+TUS, Tucson International,-110.9393878,32.11237945
+YKA, Kamloops Airport,-120.4479059,50.70379125
+BFI, Boeing Field/King County International,-122.297456,47.532386
+NCE, Nice Cote D Azur,7.2683912,43.7009358
+SGD, Sonderborg Airport,9.794377062,54.9624312
+PPG, Pago Pago International,-170.7159686,-14.3347658
+BMA, Bromma,16.0202222,59.0591152
+BQH, Biggin Hill,0.0327167,51.3166288
+CIW, Canouan Airport,-61.3452588,12.7006118
+FRG, Republic,-97.6580834,39.8266503
+HEL, Helsinki Vantaa,24.9472068,60.32135905
+LIN, Milano Linate,9.280153906,45.46099835
+MRS, Marseille Provence,5.444225254,43.3057082
+NAS, Lynden Pindling International,-77.47012287,25.03933675
+CHA, Lovell Field,-85.20163697,35.0323918
+CPS, Bi-State Parks,-111.9485469,35.260615
+LBG, Paris Le Bourget,2.4220457,48.9434494
+MAD, Adolfo Suarez Madrid Barajas,-3.574080621,40.4948384
+MIA, Miami International,-80.37628167,25.75533775
+PDK, Dekalb Peachtree,-84.3893404,33.7544617
+PSP, Palm Springs International,-116.5096391,33.83029665
+SCF, Scottsdale,-111.9260184,33.4942189
+TLH, Tallahassee International,-84.35700873,30.40016355
+EGE, Eagle County Regional,-106.9179215,39.64258335
+ORL, Executive,123.9875598,12.9721799
+SJO, Juan Santamaria International,-84.21192521,9.99332715
+SXM, Princess Juliana International,-63.11185168,18.04087385
+TMB, Miami Executive,120.9334773,14.3873697
+YVR, Vancouver International,-123.1798642,49.193044
+SRQ, Sarasota/Bradenton International,-82.55407423,27.39598835
+MEX, Licenciado Benito Juarez International,-108.322535,26.70721
+CPX, Benjamin Rivera Noriega,-65.30421884,18.31337195
+VQS, Antonio Rivera Rodriguez,-56.0928408,-34.8926788
+MRY, Monterey Regional,-121.841903,36.58705795
+MCO, Orlando International,-81.3094431,28.41290355
+AUA, Reina Beatrix International,-70.01412635,12.50213495
+CUN, Cancun International,90.41175781,23.9012404
+PTY, Tocumen International,-79.38150312,9.0668011
+EIS, Terrance B Lettsome,-64.53946734,18.4457823
+JRV, Jose Aponte de la Torre,-4.701135,40.662421
+STT, Cyril E King,-64.97245365,18.33476905
+ASE, Aspen Pitkin County Sardy Field,-106.866973,39.2208967
+BFL, Meadows Field,-122.8006676,50.3205212
+CLM, William R. Fairchild International,-123.5048266,48.12098895
+ANU, V C Bird International,-61.790408,17.137454
+AUG, Augusta State,-81.9748429,33.4709714
+B21, Sugarloaf Regional,-123.6035635,48.4149594
+BVY, Beverly Regional,-123.1302467,49.28437685
+CDW, Essex County,-73.7542043,44.0638879
+DXR, Danbury Municipal,-73.4813987,41.37212025
+GAI, Montgomery County Airpark,-77.16268583,39.16741295
+LRM, Casa de Campo International,-68.91333886,18.45180335
+MMU, Morristown Municipal,-6.599497559,53.2354158
+NPT, Newport State,-71.3137707,41.4899827
+OXC, Waterbury Oxford,-73.1348331,41.479263
+SBH, Saint Barthelemy Airport,-62.84405046,17.9042856
+SYR, Syracuse Hancock International,-76.11914451,43.1141752
+BFM, Mobile Downtown,-83.5388476,41.6523768
+OGG, Kahului Airport,-156.4328645,20.89527825
+POP, Gregorio Luperon International,-70.56892495,19.75754625
+ASD, Fresh Creek,-77.7857673,24.7249161
+BS3, Baker Bay Airport,-124.0051579,46.3152343
+MHH, Leonard M Thompson International,-79.614362,43.579217
+ANC, Ted Stevens Anchorage International,-149.9978919,61.18103525
+GAM, Gambell Airport,-171.73268,63.7663034
+GLV, Golovin Airport,-163.0394444,64.5433333
+KKA, Koyuk Alfred Adams,-161.1590748,64.9349025
+KTS, Brevig Mission Airport,-166.4703799,65.331951
+OME, Nome Airport,-165.4560374,64.5124643
+PEC, Pelican Seaplane Base,-136.2303745,57.9571727
+HYG, Hydaburg Seaplane Base,-132.8283,55.2064
+PPV, Port Protection Airport,-133.6225,56.3516667
+WHD, Hyder Seaplane Base,-130.0118303,55.9041568
+WRG, Wrangell Airport,-132.3771272,56.4861846
+YYJ, Victoria International,79.88495823,6.84264905
+HBG, Hattiesburg Bobby L. Chain Municipal,-89.25177193,31.2633274
+MQY, Smyrna Airport,-86.51666306,36.00934045
+SWF, New York Stewart International,-74.1212028801658,41.5020532
+UGN, Waukegan National,-87.8674836703092,42.42100275
+JNU, Juneau International,-134.580193001754,58.3566191
+HUS, Hughes Airport,-154.2630556,66.0411111
+BTT, Bettles Airport,-151.5282119,66.9157348
+TAL, Ralph M Calhoun Memorial,-152.10899353,65.1744003296
+WBQ, Beaver Airport,-147.4011111,66.3613889
+ELV, Elfin Cove Seaplane Base,-136.3474,58.1952
+AKI, Akiak Airport,-161.2268225,60.9052437
+KWN, Quinhagak Airport,-161.8403647,59.7520817
+SXP, Nunam Iqua,-164.848073657513,62.52012525
+ADQ, Kodiak Airport,-152.4936111,57.7497222
+DGB, Danger Bay Airport,-152.75,58.0833333
+KOZ, Ouzinkie Airport,-152.466975773406,57.94227435
+KPR, Port Williams Airport,-152.5828228,58.490845
+KWP, West Point Village,-153.5468154,57.7705374
+KYK, Karluk Airport,-154.4515784,57.5661517
+ORI, Port Lions Airport,-152.8459930419922,57.885398864746094
+SVS, Stevens Village Airport,-149.052052697633,66.0175314
+DLG, Dillingham Airport,-158.5112028,59.0433568
+EHM, Cape Newenham LRRS,-162.06300354,58.646400451699996
+SCM, Scammon Bay Airport,-165.580162296183,61.84471315
+SNP, St. Paul Island,-170.221924675276,57.1674267
+WWT, Newtok Airport,-164.642168236667,60.9398817
+CKX, Chicken Airport,-141.952838874815,64.06816475
+KEK, Ekwok Airport,-157.4736499,59.3532975
+KMO, Manokatak Seaplane Base,-158.8990193,58.9359738
+AZI, Al Bateen Executive,54.458099365234375,24.428300857543945
+NUE, Nuernberg,11.0781063311603,49.49826845
+CYF, Chefornak Airport,-164.2822542,60.1380766
+SCC, Deadhorse Airport,-148.4649963,70.19470215
+ERI, Erie International/Tom Ridge Field,-80.1738667488,42.0831270134
+HVN, Tweed New Haven,-72.8852197135109,41.2621543
+OCA, Ocean Reef Club,-80.274803161621,25.325399398804
+YOW, Ottawa Macdonald Cartier International,-75.6599865641067,45.31596955
+YUL, Pierre Elliott Trudeau International,-73.7425716609553,45.46873715
+CCR, Buchanan Field,-122.055938072537,37.98926635
+OXR, Oxnard,-119.207901749142,34.2001218
+SAC, Sacramento Executive,-121.496983481638,38.5115488
+SMO, Santa Monica Municipal,-118.45082030731,34.01641475
+PQI, Presque Isle International,-68.04423,46.68892
+FAR, Hector International,-96.8144880299697,46.9208925
+SJD, Los Cabos International,-109.71885922205,23.152007
+HSV, Huntsville International-Carl T Jones Field,-86.7638338837724,34.63699305
+PUB, Pueblo Memorial,-104.503307959449,38.29844685
+YWG, James Armstrong Richardson International,-97.2379281374448,49.91046085
+KLL, Levelock Airport,-156.86113347994,59.12690265
+DAL, Dallas Love Field,-96.851799,32.847099
+HRL, Valley International,-97.6534846439368,26.23111485
+ICT, Wichita Dwight D Eisenhower National,-97.432263303093,37.649253
+FRA, Frankfurt Main,8.52493815191621,50.0229437
+BGI, Grantley Adams International,-59.4879459797302,13.0772788
+MCI, Kansas City International,-94.7211899174345,39.3023103
+OKC, Will Rogers World,-97.6053442508241,35.3848053
+PNS, Pensacola International,-87.188085929191,30.4725975
+SNA, John Wayne Airport-Orange County,-117.868014807705,33.6742056
+STL, St Louis Lambert International,-90.3701407104496,38.74957195
+CPH, Kastrup,12.6509822483935,55.6091282
+FAB, Farnborough Airport,-0.7704595,51.2786335
+LTN, London Luton,-0.366457329243683,51.87814035
+SNN, Shannon Airport,-8.92072099879974,52.69960575
+APC, Napa County,-122.276571329547,38.216488
+BMI, Central Il Regional Airport at Bloomington,-88.9131297841723,40.4770257
+DPA, Du Page County,-88.2521833326609,41.90513465
+JAC, Jackson Hole,-110.738032484948,43.6087926
+KOA, Ellison Onizuka Kona International at Keahole,-156.042295981221,19.743906
+MDT, Harrisburg International,-76.7529458728775,40.1932098
+TTN, Trenton Mercer,-74.8138214,40.2771309
+GGT, Exuma International,-75.87650228984,23.5624053
+BGD, Hutchinson County,-101.392979457125,35.7011707
+BTV, Burlington International,-73.15329742429999,44.471900939899996
+HGR, Hagerstown Regional-Richard A. Henson Field,-77.7267563770384,39.70883285
+TRI, Tri Cities,-82.407401,36.475201
+SFB, Orlando Sanford International,-81.2432960298642,28.7754331
+KQA, Akutan Airport,-165.7784786,54.133969
+PHO, Point Hope Airport,-166.7989959716797,68.34880065917969
+OBU, Kobuk Airport,-156.8861424,66.910468
+DOF, Dora Bay Airport,-132.2666667,55.2125
+MTM, Metlakatala,-131.578003,55.131001
+UST, Northeast Florida Regional,128.894775198078,71.69812985
+KBC, Birch Creek Airport,-145.824005127,66.2740020752
+KLW, Klawock Airport,-133.074050239746,55.57910895
+ATT, Atmautluak Airport,-162.2734311,60.8631043
+WNA, Napakiak Airport,-161.978493274786,60.68892655
+KKB, Kitoi Bay Airport,-152.3705,58.1908
+TWA, Twin Hills Airport,-160.2757533,59.0744783
+CZN, Chisana Airport,-142.0479492,62.0729035
+TOG, Togiak Airport,-160.3965272,59.0531144
+AAN, Al Ain International,55.6164776710204,24.26567745
+KEF, Keflavik International,-22.6265837402411,63.98486065
+BTI, Barter Island Airport,-143.582000732,70.1340026855
+RBY, Ruby Airport,-155.4622222,64.7297222
+RDV, Red Devil Airport,-157.3430686,61.785049
+SLQ, Sleetmute Airport,-157.1660004,61.7005005
+SRV, Stony River Airport,-156.5912304,61.7860128
+VAK, Chevak Airport,-165.599920912008,61.54164765
+APF, Naples Municipal,-81.7739413804886,26.1523225
+CKV, Outlaw Field,-87.4162929611145,36.62305255
+FXE, Fort Lauderdale Executive,-80.1703238,26.1975835
+2CA, Delano Municipal,-119.23699951171875,35.745601654052734
+SNS, Salinas Municipal,-121.608949405443,36.66286415
+SKB, Robert L Bradshaw International,-62.7180023394104,17.3113064
+MXY, McCarthy Airport,-142.897613,61.4394256
+FNT, Bishop International,-83.745631779992,42.9607553
+PDB, Pedro Bay Airport,-154.1298777,59.7962114
+MWH, Grant County International,-119.315467250581,47.2054452
+BKL, Burke Lakefront,-81.6811324115242,41.5188169
+BZN, Bozeman Yellowstone International,-111.156979627835,45.78359005
+JRA, West 30th Street Heliport,-74.0071572297714,40.75477515
+RIL, Rifle Garfield County,-107.726997,39.526299
+PLS, Providenciales International,-72.2688841868252,21.77415335
+STS, Charles M. Schulz - Sonoma County,-122.814813690718,38.50917815
+FOK, Francis S. Gabreski,-72.6321566660064,40.84284135
+LYH, Lynchburg Regional/Preston Glenn Field,-79.2066029700488,37.3221732
+OWD, Norwood Memorial,45.2001235533002,20.50258215
+TVI, Thomasville Regional,-83.881049,30.9013063
+VSF, Hartness State,-72.5182965,43.343092
+YQB, Quebec Jean Lesage International,-71.3843694246076,46.7931871
+DSI, Destin Executive,-86.4705373409189,30.3997194
+CXY, Cat Cay Airport,-76.85317162803,40.21675155
+FPO, Grand Bahama International,-78.6955864137168,26.55651275
+PPC, Prospect Creek Airport,-150.64399719238,66.814102172852
+TLA, Teller Airport,-166.339303132628,65.24050875
+GST, Gustavus Airport,-135.706311324844,58.42377065
+CDB, Cold Bay Airport,-162.7198441,55.2014611
+DAB, Daytona Beach International,-81.0542694344769,29.1816439
+SUA, Witham Field,-80.22109985,27.18169975
+ARC, Arctic Village Airport,-145.578995,68.1147
+EXI, Excursion Inlet Seaplane Base,-135.449005,58.420502
+HYL, Hollis Seaplane Base,-132.6243901,55.4903557
+ZXM, Saltery Cove Airport,-132.3291667,55.40861111
+RMP, Rampart Airport,-150.139102458219,65.50719735
+DUT, Unalaska Airport,-166.544006348,53.900100708
+KPV, Perryville Airport,-159.1618786,55.906359
+WSN, South Naknek 2,-156.999967864055,58.6995042
+TYE, Tyonek Airport,-151.13800048828,61.076698303223
+IAH, George Bush Intercontinental/Houston,-95.3322023535375,29.9839236
+CPR, Casper/Natrona County International,-106.464526379267,42.9054165
+ILM, Wilmington International,-77.9025,34.2705
+SLK, Adirondack Regional,-74.204655569888,44.38940195
+YLW, Kelowna Airport,-119.379539958414,49.9567037
+AZ3, Glendale Municipal,-112.29499816894531,33.52690124511719
+NUQ, Moffett Federal Airfield,-122.04871522022,37.4169212
+CDV, Merle K Mudhole Smith,-145.473705260843,60.4916501
+GSO, Piedmont Triad International,-79.9435685047784,36.1031477
+DUB, Dublin Airport,-6.24759252207766,53.4288026
+LPA, Gran Canaria,-15.3891820716095,27.92879945
+SVD, E. T. Joshua,-61.210899,13.1443
+ADS, Addison,-96.8366773931934,32.9699986
+CLD, McClellan-Palomar,-117.281400145984,33.12754605
+ISM, Kissimmee Gateway,-81.4367788,28.2903286
+LIH, Lihue Airport,-159.33900451660156,21.97599983215332
+TXK, Texarkana Regional-Webb Field,-93.9902501942041,33.45252615
+AZS, El Catey International,-69.7411333489156,19.2687701
+MAZ, Eugenio Maria de Hostos,-67.1471232418093,18.25549555
+PGO, Stevens Field,-107.057155399199,37.28460005
+MOB, Mobile Regional,-88.2411574906623,30.69214065
+GUM, Guam International,144.802060253526,13.4864902
+BS1, Goat Cay Airport,9.2814924,45.4347162
+GHB, Governors Harbour Airport,-76.3236893942552,25.27918445
+LUR, Cape Lisburne LRRS,-166.1100006,68.87509918
+PTD, Port Alexander Airport,-134.6470219,56.2467548
+CGA, Craig Seaplane Base,-133.1474108,55.4789622
+LKE, Lake Union Terminal,-122.3386993,47.6283963
+MGM, Montgomery Regional,-86.390385251668,32.2967059
+MHM, Minchumina Airport,-152.302002,63.886002
+EEK, Eek Airport,-162.043957804885,60.21367395
+CZF, Cape Romanzof LRRS,-166.040404011051,61.7803453
+KGK, Koliganek Airport,-157.2673893,59.7265822
+SQA, Santa Ynez Airport,-120.075598406738,34.60690235
+TYS, McGhee Tyson,-83.9988481043115,35.809553
+GJT, Grand Junction Regional,-108.524449203066,39.1234158
+STI, Cibao International,-70.6037219226044,19.405476
+SUN, Friedman Memorial,-114.2959976,43.50439835
+VIE, Vienna International,16.5848987032657,48.10499675
+VKO, Vnukovo,37.2735708937034,55.5995362
+FDH, Friedrichshafen Airport,9.51098121192751,47.6711274
+STP, St. Paul Downtown Holman Field,-93.060933634915,44.933328
+CSL, Cabo San Lucas International,-109.936996,22.947701
+LIR, Daniel Oduber International,-85.544957411149,10.5929564
+PUJ, Punta Cana International,-68.3666642350135,18.56975085
+BQN, Rafael Hernandez,-67.1342158768778,18.49346055
+PVR, Licenciado Gustavo Diaz Ordaz International,-105.2533,20.6798
+ABE, Lehigh Valley International,-75.442253868383,40.6511631
+TEX, Telluride Regional,-107.908828778557,37.95382475
+BTR, Baton Rouge Metropolitan/Ryan Field,-91.1503775351041,30.5319743
+BIM, Bimini International,-79.2647018433,25.6998996735
+PIE, St Pete Clearwater International,-82.68740082,27.91020012
+WTK, Noatak Airport,-162.9729713,67.5662264
+SGF, Springfield-Branson National,-93.3889140611615,37.24298375
+HNS, Haines Airport,-135.517915163683,59.2434706
+BCT, Boca Raton Public,-80.1084333727273,26.3785634
+TBN, Waynesville-St. Robert Regional Forney Field,-92.1391957940206,37.739739
+USA, Concord Padgett Regional,-80.709099,35.387798
+HNH, Hoonah Airport,-135.4118093,58.0977585
+UGI, Uganik Airport,-153.3203755,57.7331324
+EGX, Egegik Airport,-157.3747803,58.1865933
+JHM, Kapalua Airport,-156.673235043979,20.9629093
+ATK, Atqasuk Edward Burnell Sr. Memorial,-157.43600463867188,70.46730041503906
+GND, Maurice Bishop International,-61.7856721257731,12.0047984
+DQL, Lake Hood,-149.965442,61.186946
+STR, Stuttgart Airport,9.22196006775,48.689899444599995
+ZRH, Zurich Airport,8.55320468322713,47.4635489
+SDM, Brown Field Municipal,-116.9795567568,32.57272615
+YCD, Nanaimo Airport,-123.870771707254,49.05294715
+BHX, Birmingham Airport,-1.74387875226343,52.45417725
+TLS, Toulouse Blagnac,1.36349369695019,43.631586
+USH, Islas Malvinas,-68.3090932502477,-54.8417149
+EYW, Key West International,-81.7596160347508,24.5554773
+SPI, Abraham Lincoln Capital,-89.6795659461598,39.84368615
+RDM, Roberts Field,-121.149068689281,44.25408195
+ZXU, Quonset State,-71.412101745605,41.597099304199
+KVL, Kivalina Airport,-164.561402,67.7354927
+TNC, Tin City LRRS,-167.9224086,65.5639463
+KAE, Kake Seaplane Base,-133.945999,56.973
+AXA, Clayton J Lloyd,-63.0560818822407,18.2054832
+GA9, Cartersville Airport,-84.84870147705078,34.12310028076172
+MTY, General Mariano Escobedo International,-100.108425097242,25.7759627
+ORD, Chicago O'Hare International,-87.9093214128281,41.9779849
+MKK, Molokai,-157.096216139006,21.15264475
+AIN, Wainwright Airport,-160.015027949006,70.63790295
+BKC, Buckland Airport,-161.1492319,65.9815616
+YQU, Grande Prairie Airport,-118.878292425329,55.1800502
+CXL, Calexico International,-115.518821076932,32.6680124
+SQL, San Carlos Airport,-122.250869367143,37.51262195
+PLN, Pellston Regional Airport of Emmet County,-84.7969503049933,45.56926645
+C01, Camarillo Airport,6.7634509,51.277687
+SGR, Sugar Land Regional,-95.6555228226517,29.62238065
+TSS, East 34th Street Heliport,-73.97209930419922,40.74259948730469
+GCM, Owen Roberts International,-81.3585436379105,19.29262115
+BZE, Philip S. W. Goldson International,-88.3069691190193,17.53876125
+SAP, Ramon Villeda Morales International,-87.923599,15.4526
+MTJ, Montrose Regional,-107.892487956185,38.5118206
+LCI, Laconia Municipal,-71.4125694740586,43.57467665
+MVL, Morrisville Stowe State,-72.6142811032421,44.534174
+ELH, North Eleuthera Airport,-76.6817563,25.47674915
+FRD, Friday Harbor Airport,-123.025106158084,48.5236309
+SDP, Sand Point,-160.5215587,55.317779
+GRB, Green Bay Austin Straubel International,-88.1436200715984,44.47848805
+AET, Allakaket Airport,-152.621448190865,66.551934
+TKE, Tenakee Airport,-135.2183333,57.7794444
+MLY, Manley Hot Springs Airport,-150.646478050482,64.9893312
+NLG, Nelson Lagoon Airport,-161.1669808,56.007485
+BVU, Beluga Airport,-151.044006348,61.1721992493
+1CA, Rio Vista Municipal,-74.1069008,4.6571659
+TVL, Lake Tahoe Airport,-119.996017738823,38.89458785
+GVA, Geneva Airport,6.10812124551926,46.23781635
+PAE, Snohomish County,-122.2819977,47.90629959
+AGS, Augusta Regional at Bush Field,-81.9650639098103,33.37230205
+TIJ, General Abelardo L. Rodriguez International,-116.971929211504,32.54290785
+ZLO, Playa de Oro International,-104.558284323381,19.14485145
+VRB, Vero Beach Regional,-80.4183298024739,27.65721495
+NSB, North Seaplane Base,-79.2520806,25.7640264
+DWH, David Wayne Hooks Memorial,-95.5535957800425,30.0612061
+AKP, Anaktuvuk Pass Airport,-151.746122227264,68.132309
+CIK, Chalkyitsik Airport,-143.7299015,66.6486145
+STG, St. George Island Airport,-169.669219732237,56.57905115
+CLP, Clarks Point Airport,-158.5299892,58.8366014
+BRW, Wiley Post/Will Rogers Memorial,-156.774994411245,71.28623195
+OGD, Ogden-Hinckley,-112.013519624439,41.19456325
+PEK, Capital International,116.594560692358,40.07928545
+APN, Alpena County Regional,-83.5599967583827,45.07879025
+KFP, False Pass Airport,-163.4085419,54.8483999
+SEE, Gillespie Field,-116.97200012207,32.826198577881
+AVP, Wilkes Barre Scranton International,-75.7225712292862,41.33709205
+MBJ, Sangster International,-77.9138874028772,18.50292595
+WJF, General William J. Fox Airfield,-118.221176771078,34.7403865
+HKY, Hickory Regional,-81.3891618324385,35.7410729
+IKO, Nikolski AS,-168.856394301769,52.941802
+VCV, Southern California Logistics,-117.3822518,34.5954562
+TIQ, Tinian International,145.618362829127,14.99833865
+AKB, Atka Airport,-174.206681923969,52.22221525
+MEI, Key Field,-88.75189971923828,32.33259963989258
+PVU, Provo Municipal,-111.720972296685,40.2204
+RIW, Riverton Regional,-108.4604596,43.0655193
+SHR, Sheridan County,-106.977638546442,44.7665812
+TUP, Tupelo Regional,-88.7684830809117,34.26840715
+HKB, Healy River,-148.9705214,63.8668511
+DUS, Duesseldorf,6.76173666502451,51.2869035
+SVC, Grant County,-108.156286,32.6351045
+SMN, Lemhi County,-113.881817566797,45.12296115
+KVC, King Cove Airport,-162.273118099695,55.11567385
+MMH, Mammoth Lakes Airport,-118.841712891489,37.62547265
+TCB, Treasure Cay Airport,-77.3944193821033,26.74774145
+PIA, General Downing - Peoria International,-89.6932983398,40.664199829100006
+GFK, Grand Forks International,-97.174470652996,47.9518219
+MNT, Minto Al Wright,-149.369995,65.1437
+TGU, Toncontin International,-87.219335541562,14.06037385
+ALO, Waterloo Regional,-92.40029907226562,42.557098388671875
+SPN, Francisco C. Ada Saipan International,145.729625194671,15.12049075
+HTS, Tri-State/Milton J. Ferguson Field,-82.55799866,38.36669922
+GIG, Galeao Antonio Carlos Jobim International,-43.2587932472836,-22.8111758
+SBN, South Bend International,-86.3230345718021,41.70834795
+LBL, Liberal Mid-America Regional,-100.9531865,37.0445387
+ESD, Orcas Island,-122.91076224899,48.70740765
+BWG, Bowling Green-Warren County Regional,-86.4172425147952,36.9676255
+KEB, Nanwalek Airport,-151.924672013614,59.35235445
+DAY, James M Cox/Dayton International,-84.2202454248027,39.9053187
+JAN, Jackson Medgar Wiley Evers International,-90.0758972168,32.3111991882
+MRI, Merrill Field,-149.8441957,61.2133214
+AND, Anderson Regional,-82.70939636230001,34.4945983887
+IFP, Laughlin/Bullhead International,-114.5593333,35.1546111
+AKK, Akhiok Airport,-154.1765754,56.9408464
+NEV, Vance Winkworth Amory,-62.5920081448388,17.20489475
+GNV, Gainesville Regional,-82.2760005501372,29.69230675
+MLU, Monroe Regional,-92.0384615,32.5111077
+PIB, Hattiesburg-Laurel Regional,-89.3363366,31.4672
+EVV, Evansville Regional,-87.5296839642167,38.04188775
+CKB, North Central West Virginia,-80.2295964,39.2955595
+FCA, Glacier Park International,-114.255693734217,48.3108042
+SBP, San Luis County Regional,-120.643307881982,35.23745155
+7AK, Akun Airport,-165.607566833,54.1449925194
+OFU, Ofu Airport,-169.6696685,-14.1846774
+COS, City of Colorado Springs Municipal,-104.700996,38.805801
+GTR, Golden Triangle Regional,-88.5903986,33.4502
+MLB, Melbourne International,-80.648158012358,28.1027201
+LAF, Purdue University,-86.9393739588963,40.41279385
+LAN, Capital Region International,-84.5858600573691,42.77807125
+CID, The Eastern Iowa,-91.7147100196582,41.8851038
+AZO, Kalamazoo/Battle Creek International,-85.5510419237961,42.2307865
+GPT, Gulfport-Biloxi International,-89.0714330210317,30.40711375
+TZN, Congo Town,-77.5913170475257,24.15907255
+TEK, Tatitlek Airport,-146.6838889,60.8661111
+INT, Smith Reynolds,-80.2248745974678,36.1347765
+CRW, Yeager,-81.5942122220938,38.3727055
+DVL, Devils Lake Regional,-98.9072037,48.1138202
+HYS, Hays Regional,-99.2730373,38.8454764
+AHN, Athens/Ben Epps,-83.3297399781299,33.9487053
+GUC, Gunnison-Crested Butte Regional,-106.933225496099,38.53544265
+CMI, University of Illinois/Willard,-88.2716729827622,40.0373168
+MHK, Manhattan Regional,-96.6696133020668,39.13875695
+TBU, Fua Amotu International,-175.144341798729,-21.2421623
+CXH, Coal Harbour Seaplane Base,-123.118266497405,49.29074985
+CWA, Central Wisconsin,-89.6671649644491,44.7727192
+XNA, Northwest Arkansas Regional,-94.302561586289,36.2797478
+YYC, Yyc Calgary International,-114.010572342962,51.120751
+CLL, Easterwood Field,-96.3641116417029,30.58822845
+FSD, Joe Foss Field,-96.7412095768645,43.58269775
+LNK, Lincoln Airport,-96.7574425595824,40.84731465
+SWO, Stillwater Regional,-97.0874680653493,36.16188335
+FTW, Fort Worth Meacham International,-97.3614385,32.8186231
+TCL, Tuscaloosa Regional,-87.6104638946553,33.2182261
+MFR, Rogue Valley International - Medford,-122.873429217527,42.3727441
+FOE, Topeka Regional,-95.669106796136,38.9513435
+YTZ, Billy Bishop Toronto City,-79.3979911558998,43.62805705
+TWF, Joslin Field - Magic Valley Regional,-114.4877,42.4817
+CGI, Cape Girardeau Regional,-89.5680031784597,37.22471585
+PAH, Barkley Regional,-88.773,37.0596
+MOT, Minot International,-101.27999877929688,48.2593994140625
+DOM, Douglas Charles,-61.3020804037963,15.54648545
+CAE, Columbia Metropolitan,-81.1141328386095,33.9391164
+ROA, Roanoke Blacksburg Regional Woodrum Field,-79.975403,37.3255
+PGA, Page Municipal,-111.448471748077,36.9265975
+QRO, Queretaro Intercontinental,-100.193261388304,20.6223414
+AOO, Altoona-Blair County,-78.3211743846874,40.29686675
+SLP, Ponciano Arriaga International,-100.937238321128,22.26100455
+YEG, Edmonton International,-113.588802357662,53.30873035
+BLD, Boulder City Municipal,-114.860967098185,35.9494789
+RAP, Rapid City Regional,47.8939461705149,46.39683075
+LNY, Lanai Airport,-156.952910054169,20.78414325
+LUP, Kalaupapa Airport,-156.973983779711,21.21111075
+MCW, Mason City Municipal,-93.327731997609,43.16076005
+MCN, Middle Georgia Regional,-83.6480177704344,32.6938395
+MUC, Muenchen,11.7780115070586,48.35376735
+SPS, Sheppard AFB/Wichita Falls Municipal,-98.4949199,33.9903039
+MYR, Myrtle Beach International,-78.9290597087289,33.6806406
+LUK, Cincinnati Municipal Lunken Field,-84.4208426283961,39.1002201
+EAA, Eagle Airport,-141.14893514397,64.77788825
+PTK, Oakland County International,-83.420097351074,42.665500640869
+CDR, Chadron Municipal,-103.095001221,42.837600708
+MFE, McAllen Miller International,-98.23860168,26.17580032
+COU, Columbia Regional,-92.2198931,38.8168307
+KWA, Bucholz AAF,167.7315599,8.7206583
+FAT, Fresno Yosemite International,-119.719744562094,36.776006
+BLA, General Jose Antonio Anzoategui International,-64.692222,10.111111
+OTP, Henri Coanda,26.1026920263178,44.568356
+CCZ, Chub Cay Airport,-77.87826580833,25.4165151
+MYU, Mekoryuk Airport,-166.2639482,60.3750056
+AIA, Alliance Municipal,-102.804000854,42.0531997681
+LRD, Laredo International,-99.4614739871382,27.54721475
+BRL, Southeast Iowa Regional,-91.1211229071517,40.78134825
+MCE, Merced Regional/Macready Field,-120.514219717027,37.2849957
+PPT, Tahiti Faa'a,-149.606995,-17.553699
+JMS, Jamestown Regional,-98.6781353070391,46.9276783
+BRO, Brownsville South Padre Island International,-97.4255292250409,25.905718
+FOD, Fort Dodge Regional,-94.1932797730044,42.55024315
+CHO, Charlottesville Albemarle,-78.45246606357,38.1410056
+RTB, Juan Manuel Galvez International,-86.5248059338583,16.3169504
+NGO, Chubu Centrair International,136.80499267578125,34.8583984375
+FNL, Northern Colorado Regional,-105.010943061977,40.4490334
+FDF, Martinique Aime Cesaire,-61.0056610186956,14.5906776
+GTF, Great Falls International,-111.375578974822,47.4800263
+VCP, Viracopos International,-47.1450158921847,-23.00565085
+APW, Faleolo International,-172.008296098355,-13.83077365
+ECG, Elizabeth City CGAS/Regional,-76.17459869,36.26060104
+MNZ, Manassas Regional/Harry P. Davis Field,-77.5152484731306,38.7225304
+LCK, Rickenbacker International,-82.9349423953308,39.8128473
+SJT, San Angelo Regional/Mathis Field,-100.498624549389,31.35468635
+MCG, McGrath Airport,-155.6035548,62.9523309
+NRT, Narita International,140.393310139934,35.77587145
+KSA, Kosrae Airport,162.957993,5.35698
+HRO, Boone County,-93.1540208570988,36.2612026
+DQK, Wheeler-Sack AAF,-75.7195,44.0556
+OAJ, Albert J Ellis,-77.6159874927127,34.82589095
+TOL, Toledo Express,-83.8105056175534,41.58613685
+ITH, Ithaca Tompkins Regional,-76.4587,42.491
+LHR, London Heathrow,-0.459082141573543,51.4677705
+MBS, MBS International,-84.0828495668065,43.53579615
+BEL, Val de Cans International,-48.4762992859,-1.3792500495900002
+ORH, Worcester Regional,-71.8726240040542,42.2685519
+ABI, Abilene Regional,-99.6793699292089,32.40774375
+MSL, Northwest Alabama Regional,-87.6115294406162,34.74589275
+LNS, Lancaster Airport,-76.2975126607953,40.12190825
+AKL, Auckland International,174.791245093728,-37.00889695
+FWA, Fort Wayne International,-85.1879046010707,40.9798288
+EUG, Mahlon Sweet Field,-123.213908301411,44.12306815
+JLN, Joplin Regional,-94.5009028725433,37.15928825
+GRK, Robert Gray AAF,-97.8298588592982,31.0671111
+AMS, Schiphol,4.74148740957999,52.3264009
+RFD, Chicago/Rockford International,-89.10185948684,42.1966203
+VSA, C. P. A. Carlos Rovirosa International,-92.8192292,17.9959326
+KEH, Kenmore Air Harbor,-122.257787151981,47.75719295
+BIL, Billings Logan International,116.27025399539,-8.7583099
+HUX, Bahias de Huatulco International,-96.2604,15.7743841
+ABR, Aberdeen Regional,-98.4206490345065,45.446144
+JST, John Murtha Johnstown-Cambria County,-78.8335324922628,40.31459165
+AEX, Alexandria International,-92.5409237515579,31.32927365
+LBE, Arnold Palmer Regional,-79.406419571798,40.2729348
+SGY, Skagway Airport,-135.318359372302,59.4592351
+DBQ, Dubuque Regional,-90.7070157805704,42.4029462
+MZT, General Rafael Buelna International,-106.269258138406,23.1648301
+DUJ, DuBois Regional,-78.8986431,41.1795228
+MCK, McCook Ben Nelson Regional,-100.591657584024,40.20704925
+CTG, Rafael Nunez,-75.5131265755431,10.4424567
+BMG, Monroe County,-86.6145876,39.1446206
+PVG, Pudong,121.804969726823,31.14058625
+FKL, Venango Regional,-79.859591,41.3779302
+LOS, Murtala Muhammed,3.32081516322015,6.57374445
+HDN, Yampa Valley,-107.220936,40.4844693
+MLI, Quad City International,-90.5094318606597,41.446846
+CEZ, Cortez Municipal,-108.6276045,37.3043669
+SLN, Salina Regional,-97.654859825,38.7927541
+CAY, Cayenne Felix Eboue,-52.3608812606252,4.8210723
+IWD, Gogebic-Iron County,-90.1317604,46.5270014
+MSO, Missoula International,-114.087800538914,46.91686665
+SNU, Abel Santamaria International,-79.9317168,22.4964732
+AZA, Phoenix - Mesa Gateway,-111.65264411502,33.30591455
+HOW, Panama Pacifico International,-79.599632,8.914794
+ZIH, Ixtapa-Zihuatanejo International,-101.4636742,17.6027575
+GRI, Central Nebraska Regional,-98.3075367171001,40.97051495
+PTP, Le Raizet,-61.5276079071615,16.26563115
+PGD, Punta Gorda Airport,-81.9930281031229,26.9194137
+CNM, Cavern City Air Terminal,-104.26240489317,32.33739365
+GLH, Greenville Mid Delta,-90.9846789,33.4828384
+INL, Falls International Einarson Field,-93.404072372242,48.5660857
+HIB, Range Regional,-92.8387487759028,47.38500865
+CMW, Ignacio Agramonte International,-77.8496390139372,21.42010595
+GUA, La Aurora International,-90.5271747759008,14.5832447
+BRD, Brainerd Lakes Regional,-94.1282799256842,46.40507465
+DLH, Duluth International,-92.2032968492938,46.84183845
+EAU, Chippewa Valley Regional,-91.4855007489738,44.8689683
+MGW, Morgantown Municipal-Walter L. Bill Hart Field,-79.9192332875,39.642736
+LWB, Greenbrier Valley,-80.4000448,37.858788
+ADK, Adak,-176.6443528,51.8787391
+ISN, Sloulin Field International,-103.641998291,48.177898407
+TKK, Chuuk International,151.843078383274,7.4619516
+CXF, Coldfoot Airport,-150.204239994914,67.25154445
+FAQ, Fitiuta,141.960138,-4.610468
+CXI, Christmas Island Airport,-157.347063017757,1.9843506
+GDV, Dawson Community,-104.808643327327,47.13812935
+VCT, Victoria Regional,-96.9181206803131,28.8540778
+RZE, Jasionka,22.018435906021,50.11148165
+LEB, Lebanon Municipal,-72.3062845089881,43.6223889
+DEC, Decatur Airport,-88.8619910050873,39.83349835
+BFD, Bradford Regional,-78.6402611985634,41.8034637
+HGH, Xiaoshan,120.429376518187,30.23631425
+HNM, Hana Airport,-156.014424721839,20.7950029
+BKW, Raleigh County Memorial,-81.1223208777029,37.79427185
+SIN, Singapore Changi International,103.987006967412,1.352516
+CCS, Simon Bolivar International,-66.9964890368576,10.6014603
+ELD, South Arkansas Regional at Goodwin Field,-92.811742226802,33.22273975
+BIS, Bismarck Municipal,-100.747163666215,46.7732585
+VPS, Eglin AFB Destin Fort Walton Beach,-86.549503,30.4954202
+PKB, Mid-Ohio Valley Regional,-81.4401026346384,39.3434644
+SAL, Msgr Oscar A Romero and Galdamez International,-89.0524049660309,13.45092455
+SHV, Shreveport Regional,-93.8268695268504,32.4452042
+LSE, La Crosse Regional,-91.255611153142,43.87824645
+SOW, Show Low Regional,-110.005996704,34.265499115
+BLI, Bellingham International,128.38098388661,0.9171717
+HVR, Havre City-County,-109.7624,48.543
+ICN, Incheon International,126.441055189731,37.4643856
+MNL, Ninoy Aquino International,121.022047020643,14.5121499
+IRK, Kirksville Regional,-92.5432908296509,40.0924817
+MKL, McKellar-Sipes Regional,-88.9161165,35.6014507
+HAV, Jose Marti International,-82.4142475329581,22.98738485
+KIN, Norman Manley International,-76.7809809011896,17.93556065
+MSS, Massena International-Richards Field,-89.1184402090561,13.69949595
+CTS, New Chitose,141.682931588373,42.786787
+NAN, Nadi International,177.436990536913,-17.76304695
+DDC, Dodge City Regional,-99.9657378,37.7611827
+ARN, Arlanda,17.9370443341945,59.6467921
+OWB, Owensboro Daviess County Regional,-87.164491564207,37.73827615
+MAJ, Marshall Islands International,171.271499162974,7.0649864
+AVL, Asheville Regional,-82.5408809504962,35.4364233
+LCY, London City,0.0474769238731891,51.5042655
+TAB, A N R Robinson International,-60.8375427625885,11.15043845
+GDL, Miguel Hidalgo Y Costilla International,-103.307731654779,20.5246832
+CVN, Clovis Municipal,-103.079707675427,34.42584135
+OLF, L. M. Clayton,-105.5754801,48.0955437
+GGW, Wokal Field Glasgow Valley County,-106.6134651,48.2150307
+TVF, Thief River Falls Regional,-96.1844694,48.0660335
+OGS, Ogdensburg International,43.7719674321978,26.30056745
+MUE, Waimea-Kohala,-155.66799926757812,20.001300811767578
+ATW, Appleton International,-88.5168844733873,44.2573941
+RKD, Knox County Regional,-69.098376,44.059992
+PVC, Provincetown Municipal,-70.2224321076554,42.0721912
+SCU, Antonio Maceo International,-75.8354839261697,19.9753304
+BHB, Hancock County-Bar Harbor,-68.3621240886538,44.4500096
+UVF, Hewanorra International,-60.9538842012978,13.7342774
+SGU, St George Regional,-113.509016545503,37.0342442
+RUT, Rutland - Southern Vermont Regional,-72.94960022,43.52939987
+HOT, Memorial Field,-93.0939807283844,34.47926405
+YXU, London Airport,-81.1487701378081,43.03236375
+SYD, Sydney International,151.18196819346,-33.9498935
+CUR, Hato,-68.9621608995828,12.1890286
+ZSA, San Salvador International,-74.531066302619,24.06408745
+JBR, Jonesboro Municipal,-90.6480402,35.8315924
+PNI, Pohnpei International,158.203819485627,6.9836798
+CZM, Cozumel International,-86.9292255393315,20.52350225
+SHD, Shenandoah Valley Regional,-78.8999640708124,38.26252605
+ZCL, General Leobardo C. Ruiz International,-102.68994328802,22.88941935
+YYT, St. John's International,-52.7479199202752,47.6197383
+ALS, San Luis Valley Regional/Bergman Field,-105.8667,37.435
+YHZ, Halifax Stanfield International,-63.5095564981998,44.87878455
+CUL, Culiacan International,-107.4704962,24.7660218
+MGA, Augusto Cesar Sandino International,-86.168755740802,12.14039905
+PDT, Eastern Oregon Regional at Pendleton,-118.841988285447,45.6962339
+YWH, Victoria Inner Harbour,-123.3904221,48.4253301
+SDQ, De Las Americas International,-69.6715417859544,18.429374
+LFT, Lafayette Regional Paul Fournet Field,-91.9899106562818,30.2031617
+CUU, General Roberto Fierro Villalobos International,-105.961207526646,28.701512
+UIN, Quincy Regional-Baldwin Field,-91.1937894178547,39.9447505
+OTH, Southwest Oregon Regional,-124.243465543716,43.41549325
+BON, Flamingo International,-68.2649182072493,12.1310269
+VDZ, Valdez Pioneer Field,-146.246651948437,61.13370255
+IPL, Imperial County,-115.574305853907,32.8347665
+CNY, Canyonlands Field,-109.7488124,38.7584059
+PAP, Port Au Prince International,-72.2960650146512,18.5790123
+MAN, Manchester Airport,-2.2803692526643,53.35034205
+PEI, Matecana,-75.7402700301178,4.81251875
+YXE, John G Diefenbaker International,-106.691610892208,52.172372
+CEC, Jack McNamara Field,-124.238071084857,41.7814506
+BUD, Budapest Liszt Ferenc International,19.2535100314577,47.43527295
+EDI, Edinburgh Airport,-3.3594790803642,55.95012215
+BLR, Kempegowda International,77.7045651779899,13.199162
+MAO, Eduardo Gomes International,-60.044298149337,-3.03451335
+UPN, Uruapan Airport,-102.0385185,19.397875
+CLO, Alfonso Bonilla Aragon International,-76.3840894495823,3.5442855
+YQR, Regina International,-104.665594251306,50.4309992
+YAP, Yap International,138.083136250163,9.49898575
+MWA, Veterans Airport of Southern Illinois,-89.0113,37.7541
+BNE, Brisbane International,153.121395623289,-27.38730325
+BBU, Baneasa Aurel Vlaicu,26.0937662752621,44.5020437
+RAI, Praia International,-23.4847820613303,14.9412846
+IMT, Ford,-88.1145,45.8183
+AMM, Queen Alia International,35.9953923844388,31.7241155
+BDA, L. F. Wade International,-1.83833303798354,50.78234165
+WST, Westerly State,-71.8032133015223,41.3488154
+IAG, Niagara Falls International,-78.950867676264,43.1074871
+DSS, Blaise Diagne International,-17.0734311656051,14.6655114
+CIU, Chippewa County International,-84.4691458,46.2481556
+IPT, Williamsport Regional,-76.9217961,41.2431039
+SDY, Sidney Richland Regional,-104.190305928887,47.70467
+BID, Block Island State,36.5812944171867,50.645263
+TVC, Cherry Capital,-85.584216317832,44.74349225
+FSM, Fort Smith Regional,-94.3569782626301,35.3392525
+FAY, Fayetteville Regional/Grannis Field,-78.8841682052183,34.9921371
+SSA, Deputado Luis Eduardo Magalhaes International,-38.333194007608,-12.9108737
+SVO, Sheremetyevo,37.4194260056251,55.9761265
+TER, Lajes Airport,-27.0917007995365,38.7650295
+DRO, Durango La Plata County,-107.758605917399,37.15284235
+VEL, Vernal Regional,-109.510627925049,40.43906375
+CYS, Cheyenne Regional/Jerry Olson Field,-104.808824619265,41.1562943
+RAR, Rarotonga International,-159.805678046133,-21.20172235
+KRK, John Paul II - Balice,19.7862537676033,50.0782553
+GYD, Heydar Aliyev International,50.0492118708103,40.47226865
+DGO, Durango International,-104.5339205,24.1263013
+PRC, Prescott Regional Ernest A Love Field,-112.418438077962,34.6553753
+POS, Piarco,-61.3395096845924,10.59734525
+ACA, General Juan N Alvarez International,-99.7545988,16.7599412
+CDG, Paris Charles de Gaulle,2.57076947408831,49.00665965
+MKG, Muskegon County,-86.2370531,43.1703365
+MDE, Jose Maria Cordova,-75.4239451900566,6.1662143
+SAF, Santa Fe Municipal,-106.0866685,35.6177681
+ROW, Roswell International Air Center,-104.53099822998047,33.30160140991211
+FLG, Flagstaff Pulliam,-111.670204417811,35.14039825
+BJX, Guanajuato International,-101.481294184732,20.99340875
+LBF, North Platte Regional Airport Lee Bird Field,-100.6769689,41.1238874
+PHF, Newport News/Williamsburg International,-76.494012924145,37.1322965
+EZE, Ministro Pistarini,-58.5474082786294,-34.81716065
+MQT, Sawyer International,-87.3969585065021,46.35340685
+CDC, Cedar City Regional,-113.0986,37.7003
+LAR, Laramie Regional,-105.67500305175781,41.31209945678711
+EAR, Kearney Regional,-99.0016625000112,40.7266522
+SUX, Sioux Gateway Brig Gen Bud Day Field,-96.3836488,42.4036084
+FCO, Fiumicino,12.2269012048808,41.8144309
+RST, Rochester International,-92.4954441252916,43.90430975
+RBN, Fort Jefferson Airport,-72.5,19.8333333
+BLV, Scott AFB/MidAmerica,-89.8199744606753,38.5461016
+SMR, Simon Bolivar,-74.2306,11.1196
+SCK, Stockton Metropolitan,-121.243634558705,37.8943699
+FGI, Fagali I,-171.739004017588,-13.8495609
+1G4, Grand Canyon West,-113.816001892,35.990398407
+IDA, Idaho Falls Regional,-112.070999,43.514599
+CMX, Houghton County Memorial,-88.4865113023142,47.16827015
+TAM, General Francisco Javier Mina International,-97.8658981323,22.2964000702
+MAR, La Chinita International,-71.7278594971,10.5582084656
+BFF, Western Neb. Regional/William B. Heilig Field,-103.5954262,41.8737645
+LAW, Lawton-Fort Sill Regional,-98.4181222990062,34.5698495
+OSL, Gardermoen,11.0996570929983,60.19785955
+ESC, Delta County,-87.0889932834475,45.72455915
+ACV, California Redwood Coast Humboldt County,-124.108425899374,40.9763645
+GEO, Cheddi Jagan International,-58.2565600395244,6.499469
+PSM, Portsmouth International at Pease,-70.8152009942062,43.07777625
+EWN, Coastal Carolina Regional,-77.039500540912,35.07097995
+VER, General Heriberto Jara International,-96.1873016357,19.1459007263
+PBG, Plattsburgh International,-73.4643666977021,44.6516866
+HLN, Helena Regional,-111.982744470103,46.6063969
+EKO, Elko Regional,-115.79199981689453,40.82490158081055
+PBC, Hermanos Serdan International,-98.3727502933739,19.15564795
+OAX, Xoxocotlan International,-96.7254740826599,16.9985172
+MLM, General Francisco J. Mujica International,-101.024383256969,19.84913255
+STC, St. Cloud Regional,-94.0584544502723,45.54617645
+ART, Watertown International,-76.0214741,43.9935082
+DEL, Indira Gandhi International,77.0846745826692,28.55489735
+DRT, Del Rio International,-100.922483226475,29.3725627
+GGG, East Texas Regional,-94.71150207519531,32.38399887084961
+CAP, Cap-Haitien International,-72.194702,19.733
+TNA, Yaoqiang,117.21172422198,36.85862105
+BOG, El Dorado International,-74.1460607485922,4.70091245
+TPE, Taiwan Taoyuan International,121.234592513988,25.07931745
+ORY, Paris Orly,2.36766420332296,48.730077
+MID, Licenciado Manuel Crescencio Rejon International,-89.6592707586806,20.92466355
+MEL, Melbourne International,144.833480766796,-37.667111
+CSX, Huanghua,113.220990435809,28.19013285
+HYD, Rajiv Gandhi International,78.431848261532,17.23092405
+ADD, Bole International,38.7965943182587,8.9793576
+TRC, Torreon International,-103.406080745964,25.56145175
+GYE, Jose Joaquin de Olmedo International,-79.8845896020962,-2.15634455
+DIK, Dickinson - Theodore Roosevelt Regional,-102.800467912208,46.7991697
+AXM, El Eden,-75.7665463643374,4.45028775
+COD, Yellowstone Regional,-109.021853429653,44.52075195
+SMX, Santa Maria Public/Capt. G. Allan Hancock Field,-120.463915386969,34.90192205
+RKS, Southwest Wyoming Regional,-109.068421430159,41.59507585
+OPO, Porto Airport,-8.681037254488,41.24883035
+HOB, Lea County Regional,-103.214294942437,32.68632
+BTM, Bert Mooney,-112.49700164794922,45.95479965209961
+FOR, Pinto Martins International,-38.5371772780859,-3.77636325
+ACC, Accra Kotoka International,-0.167967625794569,5.60428935
+RHI, Rhinelander/Oneida County,-89.478974050743,45.6314535
+SPB, Charlotte Amalie Harbor Seaplane Base,-64.9393638,18.33822
+ROR, Babelthuap,134.544306493304,7.3668851
+SSB, Christiansted Harbor Seaplane Base,-56.0302822892094,-28.6523732
+REC, Guararapes Gilberto Freyre International,-34.922503753396,-8.12586185
+BCN, Barcelona Airport,2.07904736298132,41.29694395
+TAS, Tashkent Islam Karimov,69.2855573863548,41.25987555
+GCC, Gillette Campbell County,-105.537926180909,44.34685815
+SZX, Bao'an International,113.806090635404,22.6376376
+HMO, General Ignacio P. Garcia International,-111.051195973724,29.09226895
+BGM, Greater Binghamton/Edwin A. Link Field,-75.9815509339948,42.2106484
+AGU, Jesus Teran International,-102.316368901391,21.6971551
+GCK, Garden City Regional,-100.726431892872,37.92967115
+HND, Tokyo International,139.779999,35.552299
+CAN, Baiyun International,113.301287068763,23.3926101
+ITO, Hilo International,-155.047549777409,19.71887405
+LGW, London Gatwick,-0.180387556047201,51.1541065
+LCH, Lake Charles Regional,-93.2245961,30.1279008
+CTU, Shuangliu,103.949570150564,30.5559104
+WAW, Warsaw Chopin,20.9708043438488,52.1630688
+BPT, Jack Brooks Regional,-94.0217808135379,29.95237505
+SBY, Salisbury-Ocean City/Wicomico Regional,-75.5101049553024,38.33941605
+CKG, Jiangbei,106.649836427908,29.7261592
+BJI, Bemidji Regional,-94.9298243462561,47.5101068
+HKG, Hong Kong International,113.917059658642,22.30742895
+LTO, Loreto International,-111.349713423647,25.98509235
+LIS, Lisboa,-9.1319005922195,38.7809542
+LWS, Lewiston Nez Perce County,-117.015503028875,46.37573125
+GRU, Guarulhos Gov Andre Franco Montoro,-46.4813556405189,-23.43779495
+FUK, Fukuoka Airport,130.447393866603,33.586802
+BEG, Beograd,20.3023911977202,44.81827625
+BRU, Brussels National,4.48065301364722,50.90105305
+BQK, Brunswick Golden Isles,-81.4639706620112,31.259811
+MXP, Malpensa,8.72354746896739,45.6296273
+NKG, Lukou,118.871767150033,31.7324679
+RDD, Redding Municipal,-122.295373103364,40.5098346
+TAO, Liuting,120.377735926774,36.26562975
+TLV, Ben Gurion,34.8809193422325,32.0027142
+CSG, Columbus Airport,-84.9420079018138,32.51660405
+PDL, Ponta Delgada Airport,-25.7019021319611,37.74359515
+KIX, Kansai International,135.222523016958,34.43420455
+PSE, Mercedita,-66.5633497464292,18.008886
+ALW, Walla Walla Regional,-118.291142323968,46.0940857
+ABY, Southwest Georgia Regional,-84.192544934148,31.5339678
+FLO, Florence Regional,-79.7253999100574,34.18512895
+FOC, Changle,119.666656068362,25.93509645
+CNF, Tancredo Neves International,-43.968086310808,-19.63365765
+VLD, Valdosta Regional,-83.2780341085929,30.77831025
+JED, King Abdulaziz International,39.1636371238818,21.6834474
+CMN, Mohammed V International,-7.58702786758465,33.3692757
+VRA, Juan Gualberto Gomez International,-81.4388163440859,23.03317165
+PIH, Pocatello Regional,-112.59600067138672,42.9098014831543
+GCN, Grand Canyon National Park,-112.145203629369,35.9525161
+SHE, Taoxian,123.48300170898438,41.639801025390625
+BAQ, Ernesto Cortissoz,-74.7772627150646,10.8880422
+ACY, Atlantic City International,-74.5702764909221,39.45708535
+RUH, King Khalid International,46.7111391285133,24.9585342
+UIO, Old Mariscal Sucre International,-78.3582917683625,-0.1268553
+XMN, Gaoqi,118.133740765925,24.5444158
+PGV, Pitt Greenville,-77.3800183967476,35.63797635
+HHH, Hilton Head Airport,-80.6952205850324,32.22453
+TYR, Tyler Pounds Regional,-95.40239715576172,32.35409927368164
+AUH, Abu Dhabi International,54.6539986,24.4393782
+HOG, Frank Pais International,-76.3207656308523,20.7878278
+TXL, Tegel,13.2805095220741,52.55737385
+WUH, Tianhe,114.212383821848,30.7738321
+DHN, Dothan Regional,-85.4499585964323,31.32004005
+BOM, Chhatrapati Shivaji Maharaj International,72.863808447654,19.0902005
+BSB, Presidente Juscelino Kubitschek International,-47.9124565199434,-15.87132945
+DXB, Dubai International,55.3685408939522,25.2514169
+EAT, Pangborn Memorial,-120.211607860794,47.40223795
+VVI, Viru Viru International,-63.1386222398218,-17.65947165
+JNB, Oliver Reginald Tambo International,28.2417410716097,-26.1356625
+ATH, Eleftherios Venizelos International,23.9465284918041,37.93732705
+PUS, Gimhae International,128.936445054351,35.1800226
+NBO, Nairobi Jomo Kenyatta International,36.9320804770884,-1.31574735
+PUW, Pullman Moscow Regional,-117.110283678028,46.74430515
+SCL, Arturo Merino Benitez International,-70.7941739198546,-33.38867925
+MVD, Carrasco International,-56.0219927204914,-34.83043195
+YUM, Yuma MCAS/Yuma International,-114.607725868737,32.64851395
+YKM, Yakima Air Terminal/McAllister Field,-120.53679819122,46.56681015
+KBP, Boryspil International,30.8915877525104,50.34002905
+DOH, Doha International,51.6068053574413,25.27463735
+KWI, Kuwait International,47.9646732528684,29.22201995
+CAI, Cairo International,31.4245370403275,30.11407775
+ALZ, Alitak Seaplane Base,-154.2495771,56.8973983
+SYB, Seal Bay Airport,-152.1902437,58.3607334
+ICY, Icy Bay Airport,-141.6485096,59.9672716
+XWA, Williston Basin International,-103.746771347564,48.2605484
+NKI, Naukiti Airport,-133.2292064,55.8521547
+LED, Pulkovo,30.2676482940934,59.8016824
+BJC, Rocky Mountain Metro,-105.113308234998,39.90778875
+CHD, Chandler Municipal,-111.810925305782,33.26982465
+FTY, Fulton County Airport-Brown Field,-84.5213205,33.7789954
+SXF, Schoenefeld,13.5113111091995,52.3734113
+TLC, Licenciado Adolfo Lopez Mateos International,-99.5661961763223,19.3378935
+ASH, Boire Field,-71.51480102539999,42.7817001343
+LWM, Lawrence Municipal,-71.1208720898487,42.7162249
+MA4, Marshfield Municipal George Harlow Field,23.3868106349565,55.8946745
+ARA, Acadiana Regional,-91.883904,30.0378
+ASN, Talladega Municipal,-86.0535362,33.5694027
+LA1, Natchitoches Regional,-93.0990982055664,31.735700607299805
+PWK, Chicago Executive,-87.9013847014316,42.1175026
+SIR, Sion Airport,7.33152372425949,46.21963795
+STN, London Stansted,0.234999999404,51.8849983215
+VRN, Villafranca,10.8858959289725,45.39717245
+NV6, Calvada Meadows,8.5570415,50.0479358
+UDD, Bermuda Dunes Airport,-116.275661528698,33.74865085
+GRQ, Eelde,6.58172323449291,53.1214959
+LUX, Luxembourg Airport,6.2093930763851,49.62637155
+MCC, McClellan Airfield,-121.409505566729,38.6646655
+NEW, Lakefront,-90.0277218608505,30.04240895
+AVW, Marana Regional,-111.218002319,32.4095993042
+BIH, Bishop Airport,-118.363998413,37.3731002808
+KOY, Olga Bay Seaplane Base,-154.229995728,57.161499023400005
+MZJ, Pinal Airpark,-111.32800293,32.5106010437
+FHB, Fernandina Beach Municipal,-81.461197,30.611799
+ROG, Rogers Executive Carter Field,-94.10690308,36.37229919
+FDY, Findlay Airport,-83.66870117190001,41.013500213600004
+GON, Groton-New London,-72.04509735107422,41.330101013183594
+RBW, Lowcountry Regional,-80.6415027,32.9201327
+SEG, Penn Valley,-76.863304,40.8167514
+SLU, George F Charles,-60.9943995169477,14.0198739
+KCC, Coffman Cove Seaplane Base,-132.8338749,56.0148437
+SVW, Sparrevohn LRRS,-155.574605054334,61.09604365
+FMN, Four Corners Regional,-108.228864558652,36.7414404
+LAL, Lakeland Linder International,-82.0147825536825,27.9860243
+MKC, Charles B. Wheeler Downtown,-94.5928393404876,39.12417015
+LEW, Auburn Lewiston Municipal,-70.2828324,44.0484069
+PSA, Pisa Airport,10.3955270099828,43.68479365
+BLL, Billund Airport,9.16074608624515,55.7411782
+SMV, Samedan,9.8841105,46.5340996
+SZG, Salzburg Airport,13.0018305769587,47.7934551
+MFM, Macau International,113.589360756201,22.149929
+QMA, Cobb County International McCollum Field,-84.597027,34.013167
+PNE, Northeast Philadelphia,-75.0105,40.0818001
+AWM, West Memphis Municipal,-90.2342623,35.1362025
+IL3, Litchfield Municipal,-94.5073013305664,45.09709930419922
+WDR, Barrow County,-83.6653299664259,33.981797
+GMP, Gimpo International,126.793298543895,37.55902745
+TRN, Torino,7.64897507527356,45.20096875
+SBD, San Bernardino International,-117.234569101414,34.09599685
+BFT, Beaufort County,-80.6329308,32.4136774
+THV, York Airport,-76.8721595995092,39.91489515
+HLG, Wheeling Ohio County,-80.6423412587373,40.17411275
+LNA, Palm Beach County Park,-80.0853220050412,26.59344965
+YPR, Prince Rupert,-130.443901226614,54.2849597
+MXL, General Rodolfo Sanchez Taboada International,-115.252190576713,32.6333278
+NIB, Nikolai Airport,-154.3579666,63.0182542
+GA3, Newnan Coweta County,-84.7697982788086,33.31159973144531
+ERF, Erfurt Weimar,10.9586466200839,50.9792725
+WKV, Penns Landing Seaplane Base,-75.141288,39.937335
+PIK, Prestwick,-4.57759660297398,55.50230535
+CPT, Cape Town International,18.6020542427743,-33.97109385
+VIJ, Virgin Gorda Airport,-64.4279001888192,18.4466072
+N2C, Charlotte Monroe Executive,-80.62205,35.01742
+LSV, Nellis AFB,-115.032206985162,36.2374797
+LUF, Luke AFB,-112.373649055117,33.5351073
+YMX, Montreal International (Mirabel),-74.0442056,45.6763769
+UOX, University-Oxford,-89.5320588208101,34.3826893
+YHU, St. Hubert,-73.4116526620563,45.5214065
+NC1, Gastonia Municipal,103.9926003,1.3695557
+EDF, Elmendorf AFB,-149.8070068359375,61.250999450683594
+XIY, Xianyang,108.758010874322,34.43872725
+RDG, Reading Regional/Carl A Spaatz Field,-75.9666830412704,40.3781706
+TCM, McChord Field,-122.4765,47.1377
+YQM, Greater Moncton Romeo Leblanc International,-64.6755606937788,46.11647835
+RIV, March ARB,-117.259003,33.880699
+IST, Istanbul Airport,28.7274163254141,41.2731718
+FAO, Faro Airport,-7.97391106572261,37.0174596
+GOT, Landvetter,12.2877630012367,57.66241475
+ANR, Deurne,4.46347143533884,51.18815085
+BRN, Bern/Belp,7.49859741688349,46.91221345
+ODE, Hans Christian Anderson,10.3279683212848,55.4751004
+OXF, Oxford Airport,-1.32304955975195,51.83706835
+WMK, Meyers Chuck Seaplane Base,-132.2583689,55.7405859
+AGC, Allegheny County,-79.9290465432013,40.3534454
+FID, Elizabeth Field,-72.0289110045477,41.25300435
+ME3, Belfast Municipal,-69.01190185546875,44.409400939941406
+SFZ, North Central State,-71.4927732221436,41.9219864
+GBH, Galbraith Lake Airport,-149.49,68.4788889
+CO1, Monte Vista Municipal,-106.0479965209961,37.52730178833008
+CXO, Conroe North Houston Regional,-95.414497,30.351801
+LGU, Logan Cache,-111.848467543536,41.79340775
+PWA, Wiley Post,-97.6454794730251,35.53659705
+FPR, Treasure Coast International,-80.3660560062913,27.49413195
+EEN, Dillant Hopkins,-72.268897,42.8994
+JBQ, Dr. Joaquin Balaguer International,-69.9859552449411,18.5713733
+MQI, Quincy Airport,-71,42.25
+OBE, Okeechobee County,-80.8504327027433,27.2686992
+PA5, Brandywine Regional,-75.581902,39.990101
+RME, Griffiss International,-75.4142921567901,43.2322434
+BFK, Buckley AFB,-104.758286,39.7078055
+MEV, Minden-Tahoe,-119.751701872726,39.0030691
+YHM, John C. Munro Hamilton International,-79.9275372155442,43.17084875
+FMY, Page Field,-81.862081160201,26.58587405
+DWC, Dubai Al Maktoum International,55.1639079450187,24.8926515
+BNF, Warm Spring Bay Seaplane Base,-134.833146,57.088799
+IN6, Clark Regional,-85.73819732666016,38.36539840698242
+YGK, Kingston Airport,-76.5977245210112,44.22465785
+CIA, Ciampino,12.5912711332069,41.79954695
+NHT, RAF Northolt,-0.418103229385512,51.55435185
+WLG, Wellington International,174.807702963453,-41.32691975
+CWB, Afonso Pena,-49.1680420980351,-25.53279165
+LPS, Lopez Island Airport,6.793275,47.0834434
+MST, Maastricht Aachen,5.77132050283004,50.91249905
+SEF, Sebring Regional,-81.3466577228957,27.4566741
+HAJ, Hannover Airport,9.68723657582659,52.46144075
+TYM, Staniel Cay,-76.43910217285156,24.169099807739258
+ZXH, Chomondely Sound Airport,-132.32105,55.23201
+HWD, Hayward Executive,-122.122001648,37.659198761
+VIS, Visalia Municipal,-119.392997742,36.3186988831
+SUS, Spirit of St. Louis,-90.652000427246,38.662101745605
+AIK, Aiken Regional,-81.6842739,33.649307
+DVT, Phoenix - Deer Valley,-112.079804341182,33.68917595
+FYV, Drake Field,-94.1688359757341,36.0052799
+LRU, Las Cruces International,-106.9220857,32.286877
+TKI, Tokeen Airport,-133.3261834,55.9369008
+VGT, North Las Vegas,-115.196046956619,36.2101116
+VWD, Hanford Municipal,-119.6279984,36.31669998
+ESN, Easton/Newnam Field,-76.0685649014205,38.80316115
+YQG, Windsor Airport,-82.945034555007,42.27541855
+YRQ, Trois Rivieres Airport,-72.6781501761629,46.3567288
+RKV, Reykjavik Airport,-21.9409444551476,64.129393
+ILG, New Castle,-75.6063155,39.6784459
+XRY, Jerez,-6.06416879882083,36.74393575
+UBF, Chatham Municipal,-69.989501953125,41.68840026855469
+05A, Little Squaw Airport,-86.8800341,21.042857
+RLU, Bornite Upper,-156.933,67.1
+MRC, Maury County,-87.1800643125152,35.5548206
+JZI, Portland Municipal,-84.99009705,40.45080185
+YXT, Terrace Airport,-128.574788062216,54.4672709
+NLC, Lemoore NAS,-119.9520035,36.3330002
+HBI, Harbour Island Airport,-76.75,25.5
+MHR, Sacramento Mather,-121.303800081722,38.5532409
+JCI, New Century Aircenter,-94.8880610965254,38.8305804
+NMC, Norman's Cay Airport,-76.82019805908203,24.59429931640625
+LYS, Lyon Saint Exupery,5.08650075555424,45.7245365
+ESB, Esenboga,32.9979603926792,40.1255726
+PVS, Provideniya Bay,-173.237470127825,64.38003795
+CFT, Greenlee County,-109.2099991,32.95280075
+PUQ, Carlos Ibanez del Campo International,-70.8456465,-53.0050938
+NTR, Del Norte International,-100.240805225557,25.86668535
+VCE, Marco Polo International,12.3425796810648,45.50353855
+TFS, Tenerife Sur,-16.5727152996735,28.04605465
+ADW, Joint Base Andrews,-76.866997,38.810799
+BIF, Biggs AAF,-106.3899642,31.8341577
+YNG, Youngstown-Warren Regional,-80.6749793559391,41.26073745
+FSZ, Shizuoka Airport,138.184137072165,34.7965038
+NOU, Noumea La Tontouta,166.214058822038,-22.01488615
+IWO, Iwoto Airport,141.324272482351,24.7852394
+GLA, Glasgow Airport,-4.4330556,55.8719444
+PSF, Pittsfield Municipal,-73.2928876455017,42.42642225
+BAF, Westfield Barnes Regional,-72.7119274634036,42.1605968
+UT1, Heber Valley,2.5483569,48.9977023
+RCE, Roche Harbor Airport,-123.1596319,48.6081548
+OLM, Olympia Regional,-122.9029999,46.9693985
+GYR, Phoenix Goodyear,-112.371851197805,33.42278685
+YTM, Mont-Tremblant International,-74.7793708,46.4071076
+YKF, Waterloo,-80.3842506060666,43.46039235
+HTO, East Hampton Airport,-72.2498948795567,40.96146555
+CAT, New Bight Airport,-65.7537968109035,-28.59384115
+WTD, West End Airport,-78.9834305553414,26.6883433
+RLG, Laage,12.2762043710802,53.91914275
+MPL, Montpellier Mediterranee,3.96314748255355,43.58045285
+YXY, Erik Nielsen International,-135.069353637564,60.70919245
+CGN, Koeln Bonn,7.13890628951483,50.8677927
+TIW, Tacoma Narrows,-122.576636578667,47.26975255
+JXN, Jackson County-Reynolds Field,-84.4624298939131,42.260282
+PBM, Johan A. Pengel International,-55.1880364142145,5.45258545
+CYB, Charles Kirkconnell International,-79.8820993,19.6872723
+6B0, Middlebury State,-73.09590148929999,43.9847984314
+1GA, Henry County,-88.38289642330001,36.338199615499995
+TSA, Taipei Songshan,121.554900863479,25.0664615
+HIO, Portland Hillsboro,-122.947489062582,45.54187515
+AUZ, Aurora Municipal,-88.4594887623607,41.7733282
+TLN, Hyeres Le Palyvestre,6.14784637673918,43.09576915
+WY1, Ralph Wenz Field,-109.8069992,42.79550171
+UKI, Ukiah Municipal,-123.202070577769,39.12728615
+GA6, Cherokee County,-81.204161,32.1386541
+FLX, Fallon Municipal,-118.7496591,39.4995272
+HSH, Henderson Executive,-115.136075636094,35.97313425
+DMA, Davis Monthan AFB,-110.869902396303,32.17079565
+OSN, Osan AB,127.0297346,37.0897998
+OKA, Naha,127.647975868459,26.1982697
+SKF, Kelly Field,-98.5861854258543,29.3838847
+JER, Jersey Airport,-2.19853843874458,49.2066455
+SCQ, Santiago,-8.41891330714926,42.89764215
+PML, Port Moller Airport,-160.5562625,56.0093835
+ZBL, Biloela (Thangool),150.576861735898,-24.4946875
+GGE, Georgetown County,-79.3190346636969,33.31429725
+SOU, Southampton Airport,-1.3567999601364136,50.95029830932617
+OST, Oostende,2.8622200489,51.198898315399994
+RIX, Riga International,23.972645501981,56.92223965
+MME, Durham Tees Valley,-1.42479031671731,54.50941065
+PRG, Ruzyne,14.2705696336221,50.10203975
+IOA, Ioannina Airport,20.8243007,39.694103
+LUG, Lugano Airport,8.90983007253512,46.00410925
+ZNA, Harbour,-123.9351766,49.1698302
+ETZ, Metz Nancy Lorraine,6.24376943818618,48.97836485
+NGU, Norfolk NS,-76.289299,36.937599
+2GA, Camilla Mitchell County,-84.23680114746094,31.212900161743164
+YDA, Dawson City Airport,-139.1280059814453,64.04309844970703
+YQX, Gander International,-54.5737463981672,48.93562055
+NUW, Whidbey Island NAS,-122.655998,48.351799
+BRS, Bristol Airport,-2.71862377156189,51.38296995
+POB, Pope AAF,-79.01804077253,35.1734655
