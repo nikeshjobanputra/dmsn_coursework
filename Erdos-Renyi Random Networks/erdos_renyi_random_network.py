@@ -1,17 +1,10 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
-fourtyPercentProbabilityNetwork = nx.erdos_renyi_graph(10, 0.4)
-print("Average clustering coefficient for 40% probability network is ", nx.average_clustering(fourtyPercentProbabilityNetwork))
-print("Average path length for 40% probability network is ", nx.average_shortest_path_length(fourtyPercentProbabilityNetwork))
+g = nx.erdos_renyi_graph(1259, 0.021)
 
-sixtyPercentProbabilityNetwork = nx.erdos_renyi_graph(10, 0.6)
-print("Average clustering coefficient for 60% probability network is ", nx.average_clustering(sixtyPercentProbabilityNetwork))
-print("Average path length for 60% probability network is ", nx.average_shortest_path_length(sixtyPercentProbabilityNetwork))
+print("Number of nodes is ", g.number_of_edges())
+print("Number of edges is ", g.number_of_nodes())
 
-eightyPercentProbabilityNetwork = nx.erdos_renyi_graph(10, 0.8)
-print("Average clustering coefficient for 80% probability network is ", nx.average_clustering(eightyPercentProbabilityNetwork))
-print("Average path length for 80% probability network is ", nx.average_shortest_path_length(eightyPercentProbabilityNetwork))
-
-nx.draw(eightyPercentProbabilityNetwork)
+nx.draw(g)
 plt.show()
