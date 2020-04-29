@@ -2,7 +2,7 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 import os
-os.environ["PROJ_LIB"] = "C:\\Users\\Nikesh\\Anaconda3\\pkgs\\proj4-5.2.0-ha925a31_1\\Library\\share"
+# os.environ["PROJ_LIB"] = "C:\\Users\\Nikesh\\Anaconda3\\pkgs\\proj4-5.2.0-ha925a31_1\\Library\\share"
 from mpl_toolkits.basemap import Basemap as Basemap
 
 flight_data_col = ['Source', 'Destination']
@@ -11,7 +11,7 @@ flight_data_df['Source'] = flight_data_df['Source'].astype("string")
 flight_data_df['Destination'] = flight_data_df['Destination'].astype("string")
 
 nodes_lat_long_col = ['Node', 'Airport Name', 'Lon', 'Lat']
-nodes_lat_long_df = pd.read_csv('nodes_lat_long.csv', names=nodes_lat_long_col, skiprows=[0])
+nodes_lat_long_df = pd.read_csv('data.csv', names=nodes_lat_long_col, skiprows=[0])
 nodes_lat_long_df['Node'] = nodes_lat_long_df['Node'].astype("string")
 nodes_lat_long_df['Airport Name'] = nodes_lat_long_df['Airport Name'].astype("string")
 
@@ -34,4 +34,4 @@ m.drawcountries(linewidth = 3)
 m.drawstates(linewidth = 0.2)
 m.drawcoastlines(linewidth=3)
 plt.tight_layout()
-plt.savefig("map.png", format = "png", dpi = 300)
+plt.savefig("map_unknown_removed_shit.png", format = "png", dpi = 300)

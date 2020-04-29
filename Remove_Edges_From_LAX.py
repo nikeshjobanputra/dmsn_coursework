@@ -15,6 +15,9 @@ name_of_new_csv = "fourty_percentage_threshold.csv"
 removed_edges_from_LAX=0
 count_of_LAX_edges=0
 
+# print("The flight dataset ",flight_data_df.Source.value_counts())
+# print("The flight dataset ",flight_data_df.Destination.value_counts())
+
 for index, row in flight_data_df.iterrows():
     if row['Source'] == 'LAX':
         count_of_LAX_edges+=1
