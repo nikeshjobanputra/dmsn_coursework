@@ -8,11 +8,19 @@ flight_data_df = pd.read_csv('flight_data.csv', names=flight_data_col, skiprows=
 flight_data_df['Source'] = flight_data_df['Source'].astype("string")
 flight_data_df['Destination'] = flight_data_df['Destination'].astype("string")
 
-original_data = nx.from_pandas_edgelist(flight_data_df, source = 'Source', target = 'Destination' ,create_using = nx.DiGraph())
+random_graph_1_col = ['Source', 'Destination']
+random_graph_1_df = pd.read_csv('random_graph_1_data.csv', names=random_graph_1_col)
 
-random_graph_1 = nx.erdos_renyi_graph(1259, 0.021)
-random_graph_2 = nx.erdos_renyi_graph(1259, 0.021)
-random_graph_3 = nx.erdos_renyi_graph(1259, 0.021)
+random_graph_2_col = ['Source', 'Destination']
+random_graph_2_df = pd.read_csv('random_graph_2_data.csv', names=random_graph_2_col)
+
+random_graph_3_col = ['Source', 'Destination']
+random_graph_3_df = pd.read_csv('random_graph_3_data.csv', names=random_graph_3_col)
+
+original_data = nx.from_pandas_edgelist(flight_data_df, source = 'Source', target = 'Destination' ,create_using = nx.DiGraph())
+random_graph_1 = nx.from_pandas_edgelist(random_graph_1_df, source = 'Source', target = 'Destination' ,create_using = nx.DiGraph())
+random_graph_2 = nx.from_pandas_edgelist(random_graph_2_df, source = 'Source', target = 'Destination' ,create_using = nx.DiGraph())
+random_graph_3 = nx.from_pandas_edgelist(random_graph_3_df, source = 'Source', target = 'Destination' ,create_using = nx.DiGraph())
 
 page_rank_for_original_data = nx.pagerank(original_data)
 
